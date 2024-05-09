@@ -88,7 +88,46 @@ Everything looks good. It’s time to import the data within the SQL Server Mana
 
 1. Display the data
 
-![1 display the data](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/70411e25-2581-41de-a8c0-db143fd78a56)
+![1 display the data](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/c8488439-8535-45fc-a39f-a869474a711d)
+
+2. Total Loan Applications
+   
+![2 total LOan APPP](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/54e52ba1-4dc2-4ddd-bda7-1225adae1dcb)
+
+3. Month to Date Loan Applications
+![3 mtd la](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/eb25b04a-56c2-4cda-b3e2-7c5a403f3aa2)
+![4 pmtd la](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/f0185edb-2b98-4dc8-89d1-a60b5ca04bae)
+![5 total amount funded](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/0546b1ae-c7ad-4511-a242-030b85dd1e36)
+![6 mtd fa](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/8a5fb3d9-7c10-4a5e-8184-91f1e928f9d1)
+
+![6' pmtd fa](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/f3878d23-83da-4b1b-be4a-cc297c0a92ab)
+![7 total amount received](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/288f417e-ecac-49f1-b3e8-a719f43730ae)
+![8 mtd ar](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/5517045f-0380-474a-ac2a-db78a8403184)
+![9 pmtd ar](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/950d8dd6-e7bd-4b6e-9fa4-ffe13b728b7a)
+![10 avg IR](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/9c1baeec-8a93-4cc4-b758-43af2cdcd778)
+![11 mtd avg ir](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/e542d133-4f17-4ca7-8266-a7201928e6dc)
+![12 pmtd avg ir](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/b440e3b5-9ee3-4ff8-bd93-cd73c48c4228)
+![13 avg dti](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/25c53067-5695-46f5-8ca6-191de6cd8708)
+![14 mtd avg dti](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/c42a81c3-9b1d-41c5-8252-9bcc19c36674)
+![15 pmtd avg dti](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/005e3b17-b741-4b97-a01b-057c262b04c9)
+![16 good loan percentage](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/ea15e61a-61e0-465c-a256-7c0d2b511203)
+![17 total good laon](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/edc8e64a-20ae-49a9-a394-4fe00a3a9f99)
+![18 good loan fa](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/b64399f3-21d0-4430-bcad-212a67f4db8e)
+![19 good loan ra](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/6bdf1c99-4087-40e4-a205-e181f839f5a0)
+![20 bad loan percentage](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/0e2cc1ce-9a8e-4bc7-8367-26817327cbf7)
+![21 total bad loan appl](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/c42490bf-73ee-4599-a056-fa8bbc50bcdd)
+![22 bad lon fa](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/b7712a20-323e-4853-aca7-36462f018211)
+![23 bad loan ar](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/035e6941-8f2e-4dd3-92e4-39014ad99645)
+![24 summary loan status](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/f64c54a3-5a74-4782-a6d8-a3052377b2e9)
+![25 summary loan status mtd fa and ra](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/82bc54ff-fde6-4448-bec6-ae4f33ad97cd)
+![26 monthly trend](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/d58dbe5b-de13-425b-af87-64188390f7bf)
+![27 state trend](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/340055f4-d889-4e5d-9ab4-1b492ca84e42)
+![27' state trend](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/d9615fdb-7ed4-464a-84df-a958e925544e)
+![28 term trend](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/c4d4307f-955a-4f25-be67-555a35729185)
+![29 emp_term trend](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/c34cb311-9c0e-4fc4-81e8-490daf306400)
+![30 purpose trend](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/9b43e5ff-0f06-4dd5-8c2b-5c922b34d702)
+![31 ownership trend](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/bd2d006f-fc92-40c2-a337-df56948bf1c0)
+
 
 
 
