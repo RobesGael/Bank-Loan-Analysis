@@ -86,6 +86,11 @@ Data cleaning and preprocessing
 
 Everything looks good. It’s time to import the data within the SQL Server Management Studio and perform the following queries. These queries will be used to validate our interactive dashboard.
 
+1. Display the data
+
+![1 display the data](https://github.com/RobesGael/Bank-Loan-Analysis/assets/155399653/70411e25-2581-41de-a8c0-db143fd78a56)
+
+
 
 EDA: 
  In POWER BI, I imported the data from SQL Server
